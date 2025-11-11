@@ -2,3 +2,4 @@ data/*
 !data/tektronic-2024.zip
 untracked
 .venv
+.venv-converter
